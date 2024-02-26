@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 ## Favorite drink 
 ☕
+## My Waifu
+<img src="https://media1.tenor.com/m/XW8AKTDrh8oAAAAC/bocchi-the-rock-ryo.gif">
