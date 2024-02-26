@@ -19,4 +19,9 @@ Here are some ideas to get you started:
 ## My favorite programming language
 
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;">
-<img align="left" alt="Javascript" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:10px;">
+<img align="left" alt="Javascript" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:10px;"/>
+<br/>
+
+
+## Favorite drink 
+☕
