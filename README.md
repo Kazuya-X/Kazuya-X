@@ -1,4 +1,4 @@
-### Hi, I'm Kazuya 👋
+###  Hi, I'm Kazuya 👋
 
 <!--
 **Kazuya-X/Kazuya-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<code><img height="100" src="FB_IMG_1708869169639.jpg"/>
-</code>
+<code><img src="for_gh.jpg"/></code>
 
-## 
 
-<code><img src="https://media1.tenor.com/m/XW8AKTDrh8oAAAAC/bocchi-the-rock-ryo.gif"></code>
+
+>jika aku berdebat dengan orang pintar aku menang, namun anehnya jika aku berdebat dengan orang bodoh aku kalah telak.
+
 ## My favorite programming language
 
 <img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;">
