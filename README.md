@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
->jika aku berdebat dengan orang pintar aku menang, namun anehnya jika aku berdebat dengan orang bodoh aku kalah telak.
+> Setiap aksi menghasilkan reaksi .
 
 ## My favorite programming language
 
